@@ -3,6 +3,7 @@ Paste the following text anywhere in ~/.bash_profile
 ***
 
 
+
 ltouch()
 {
   touch $1
